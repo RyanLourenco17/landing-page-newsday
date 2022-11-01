@@ -1,2 +1,2 @@
 # landing-page-newsday
-Primeira página de Landing Page
+Repositório destinado a minha primeira página de Landing Page.
